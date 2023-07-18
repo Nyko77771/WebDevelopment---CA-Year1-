@@ -1,0 +1,15 @@
+body {
+    border-color: antiquewhite;
+}
+
+.myMain {
+    border: 1px solid red;
+}
+
+.custom-space{
+    border: 1px solid blue;
+}
+
+.custom-space .nav-item {
+    margin: 2%;
+}
